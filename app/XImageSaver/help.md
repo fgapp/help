@@ -58,31 +58,31 @@
    
 3. Click the `Share` button to start saving images in the web page;
    
-    <kbd>![web-page](https://github.com/user-attachments/assets/7422c846-96af-4615-b257-602fd1dfc169)</kbd>
+  ![web-page](https://github.com/user-attachments/assets/7422c846-96af-4615-b257-602fd1dfc169)
    
 5. Select the file type as `Web Archive` to share;
    
-   <kbd>![web-option](https://github.com/user-attachments/assets/0613129a-9b47-45c1-9034-0743f8cb0041)</kbd>
+  ![web-option](https://github.com/user-attachments/assets/0613129a-9b47-45c1-9034-0743f8cb0041)
 
 7. Click `Image Saver` app to handle saving;
    
-   <kbd>![share-web-archive](https://github.com/user-attachments/assets/50037047-029d-4ad1-a8b1-24843cc00754)</kbd>
+   <kbd>![share-web-archive](https://github.com/user-attachments/assets/50037047-029d-4ad1-a8b1-24843cc00754)
 
 9. Edit the title or comments for this image record;
     
-   <kbd>![edit-comment](https://github.com/user-attachments/assets/7315109c-c07c-44a3-991e-60d5a894aad2)</kbd>
+   ![edit-comment](https://github.com/user-attachments/assets/7315109c-c07c-44a3-991e-60d5a894aad2)
 
 11. Click the Save button to save image data;
     
 13. Open `Image Saver` app to view saved images;
     
-   <kbd> ![app-main](https://github.com/user-attachments/assets/782d6582-7986-497b-988e-ed9554e128e2)</kbd>
+   ![app-main](https://github.com/user-attachments/assets/782d6582-7986-497b-988e-ed9554e128e2)
 
 15. You can preview, delet images; or you can grab text from images!
     
-<kbd>![share-image-batch](https://github.com/user-attachments/assets/c65285e9-ba4c-4dc0-b1f0-6fb1b6f2d426)</kbd>
+![share-image-batch](https://github.com/user-attachments/assets/c65285e9-ba4c-4dc0-b1f0-6fb1b6f2d426)
     
-<kbd>![ocr](https://github.com/user-attachments/assets/30d81e57-e5c8-4da0-803d-c9c8ea09018b)</kbd>
+![ocr](https://github.com/user-attachments/assets/30d81e57-e5c8-4da0-803d-c9c8ea09018b)
 
 
 ## Feedback
