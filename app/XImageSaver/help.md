@@ -5,19 +5,25 @@
 <table>
   <tr>
     <td> 
-      <h3>Grab Images from Web</h3>
+      <h3 align="center">Grab Images from Web</h3>
       <kbd><img style="box-shadow: 0 0 2px #444;" alt="share-web-archive" src="https://github.com/user-attachments/assets/5c0def8d-da0c-4d25-bea9-ff464699e868"></kbd>
     </td>
     <td> 
-      <h3>Save Images</h3>
+      <h3 align="center">Save Images</h3>
       <kbd><img alt="edit-comment" src="https://github.com/user-attachments/assets/7315109c-c07c-44a3-991e-60d5a894aad2"></kbd>
     </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
     <td> 
-      <h3>Saved Image Records</h3>
+      <h3 align="center">Saved Image Records</h3>
       <kbd><img alt="app main" src="https://github.com/user-attachments/assets/782d6582-7986-497b-988e-ed9554e128e2"></kbd>
     </td>
     <td> 
-      <h3>Preview, Edit or OCR</h3>
+      <h3 align="center">Preview, Edit or OCR</h3>
       <kbd><img alt="ocr" src="https://github.com/user-attachments/assets/039f8dd3-6644-4165-9369-11697ccd669e"></kbd>
     </td>
   </tr>
